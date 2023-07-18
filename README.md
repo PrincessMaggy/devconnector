@@ -10,7 +10,7 @@
 - [Author](#author)
 
 ## Overview
-This is a cloned version of netflix application.
+
 ### Screenshot
 
 ![screenshot](./SCREENSHOT.png)
